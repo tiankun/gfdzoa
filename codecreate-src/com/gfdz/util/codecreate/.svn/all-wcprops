@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/800/gfdzoa/codecreate-src/com/gfdz/util/codecreate
+END
+init.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/800/gfdzoa/codecreate-src/com/gfdz/util/codecreate/init.ftl
+END
+JeecgOneToMainUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/800/gfdzoa/codecreate-src/com/gfdz/util/codecreate/JeecgOneToMainUtil.java
+END
+JeecgInitDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/800/gfdzoa/codecreate-src/com/gfdz/util/codecreate/JeecgInitDB.java
+END
+JeecgOneGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/800/gfdzoa/codecreate-src/com/gfdz/util/codecreate/JeecgOneGUI.java
+END

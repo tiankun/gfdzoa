@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/java/!svn/ver/1767/gfdzoa/gfdzoa-src/com/gfdz/entity/gc
+END
+CodeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/1570/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/CodeEntity.java
+END
+PurchaseExecuteConfirmEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/PurchaseExecuteConfirmEntity.java
+END
+TransferFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/1528/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/TransferFilesEntity.java
+END
+PurchasePlanEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1570/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/PurchasePlanEntity.java
+END
+QualityCheckEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1535/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/QualityCheckEntity.java
+END
+BudgetApprovalEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1611/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/BudgetApprovalEntity.java
+END
+ProjectInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1851/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/ProjectInfoEntity.java
+END
+PurchaseExecuteDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/PurchaseExecuteDetailEntity.java
+END
+JsTransferFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1544/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/JsTransferFilesEntity.java
+END
+ProjectScheduleDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/1752/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/ProjectScheduleDetailEntity.java
+END
+PurchaseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/1832/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/PurchaseEntity.java
+END
+SafetyCheckFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/1528/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/SafetyCheckFilesEntity.java
+END
+ProjectAcceptEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/1718/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/ProjectAcceptEntity.java
+END
+WagesDeclareEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1794/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/WagesDeclareEntity.java
+END
+QualityRetentionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/1718/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/QualityRetentionEntity.java
+END
+ProjectTaskEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1612/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/ProjectTaskEntity.java
+END
+SafeEducationFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1528/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/SafeEducationFilesEntity.java
+END
+PurchasePlanDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1731/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/PurchasePlanDetailEntity.java
+END
+SafeEducationEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/1535/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/SafeEducationEntity.java
+END
+ProjectTaskFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/1588/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/ProjectTaskFilesEntity.java
+END
+MaterialBaseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1752/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/MaterialBaseEntity.java
+END
+SafetyCheckEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1535/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/SafetyCheckEntity.java
+END
+JsTransferEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/1544/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/JsTransferEntity.java
+END
+PurchaseExecuteEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/PurchaseExecuteEntity.java
+END
+PurchaseDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1751/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/PurchaseDetailEntity.java
+END
+CostApprovalEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1783/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/CostApprovalEntity.java
+END
+ProjectScheduleEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1604/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/ProjectScheduleEntity.java
+END
+BudgetApprovalFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/1583/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/BudgetApprovalFilesEntity.java
+END
+QualityCheckFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/1528/gfdzoa/gfdzoa-src/com/gfdz/entity/gc/QualityCheckFilesEntity.java
+END

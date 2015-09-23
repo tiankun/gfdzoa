@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler
+END
+Keyboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Keyboard.js
+END
+Feature.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Feature.js
+END
+MouseWheel.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/MouseWheel.js
+END
+Path.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Path.js
+END
+Drag.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Drag.js
+END
+Point.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Point.js
+END
+RegularPolygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/RegularPolygon.js
+END
+Hover.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Hover.js
+END
+Box.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Box.js
+END
+Polygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Polygon.js
+END
+Pinch.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Pinch.js
+END
+Click.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Handler/Click.js
+END

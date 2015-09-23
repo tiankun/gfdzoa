@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/sql/acs
+END
+OrderService_getOrderfxData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/sql/acs/OrderService_getOrderfxData.sql
+END
+OrderService_getGoodsNum.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/sql/acs/OrderService_getGoodsNum.sql
+END

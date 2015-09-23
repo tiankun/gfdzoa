@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow
+END
+ProcessConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/ProcessConstants.java
+END
+PropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/PropertyType.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/Graph.java
+END
+CustomProcessDiagramGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/CustomProcessDiagramGenerator.java
+END
+CustomGroupEntityManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/CustomGroupEntityManagerFactory.java
+END
+GraphElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/GraphElement.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/Edge.java
+END
+CustomGroupEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/CustomGroupEntityManager.java
+END
+ActivitiGraphBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/ActivitiGraphBuilder.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/Variable.java
+END
+HistoryProcessInstanceDiagramCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/HistoryProcessInstanceDiagramCmd.java
+END
+DateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/DateConverter.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/Node.java
+END
+ActivitiHistoryGraphBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/gfdz/util/workflow/ActivitiHistoryGraphBuilder.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/sql
+END
+JeecgDictDao_querySystemDict.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/sql/JeecgDictDao_querySystemDict.sql
+END
+JeecgDictDao_queryCustomDict.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/sql/JeecgDictDao_queryCustomDict.sql
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1275/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base
+END
+TSRoleOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSRoleOrg.java
+END
+MutiLangEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/MutiLangEntity.java
+END
+TSRoleFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSRoleFunction.java
+END
+DuplicateCheckPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/DuplicateCheckPage.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/Client.java
+END
+TSUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/1248/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSUser.java
+END
+TSOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSOperation.java
+END
+DynamicDataSourceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/java/!svn/ver/1094/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/DynamicDataSourceEntity.java
+END
+TSTypegroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSTypegroup.java
+END
+TSDataRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSDataRule.java
+END
+TSLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSLog.java
+END
+TSAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSAttachment.java
+END
+TSDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSDemo.java
+END
+TSConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSConfig.java
+END
+TSRoleUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSRoleUser.java
+END
+TSCategoryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSCategoryEntity.java
+END
+TSOpinTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSOpinTemplate.java
+END
+TSFileno.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSFileno.java
+END
+TSTerritory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/1633/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSTerritory.java
+END
+TSBaseUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSBaseUser.java
+END
+TSDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSDocument.java
+END
+TSUserOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSUserOrg.java
+END
+DictEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/DictEntity.java
+END
+TSType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSType.java
+END
+TSVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSVersion.java
+END
+TSIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSIcon.java
+END
+TSFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSFunction.java
+END
+TSRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/1275/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSRole.java
+END
+TSTimeTaskEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSTimeTaskEntity.java
+END
+TSDepart.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/1254/gfdzoa/framework-src/org/jeecgframework/web/system/pojo/base/TSDepart.java
+END

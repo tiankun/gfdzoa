@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/java/!svn/ver/1361/gfdzoa/gfdzoa-src/com/gfdz/service/hr
+END
+PersonChangeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1142/gfdzoa/gfdzoa-src/com/gfdz/service/hr/PersonChangeService.java
+END
+TravelServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1679/gfdzoa/gfdzoa-src/com/gfdz/service/hr/TravelServiceI.java
+END
+PersonContractService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/1142/gfdzoa/gfdzoa-src/com/gfdz/service/hr/PersonContractService.java
+END
+EducationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/service/hr/EducationService.java
+END
+NoticeServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1090/gfdzoa/gfdzoa-src/com/gfdz/service/hr/NoticeServiceI.java
+END
+WorkSummaryServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/hr/WorkSummaryServiceI.java
+END
+WorkExpService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1142/gfdzoa/gfdzoa-src/com/gfdz/service/hr/WorkExpService.java
+END
+VacationArrangementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/1653/gfdzoa/gfdzoa-src/com/gfdz/service/hr/VacationArrangementService.java
+END
+RewardService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/1142/gfdzoa/gfdzoa-src/com/gfdz/service/hr/RewardService.java
+END
+EducationFilesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/service/hr/EducationFilesService.java
+END
+LeaveTypeServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1090/gfdzoa/gfdzoa-src/com/gfdz/service/hr/LeaveTypeServiceI.java
+END
+PersonContractFilesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/service/hr/PersonContractFilesService.java
+END
+PerformanceServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/hr/PerformanceServiceI.java
+END
+LeaveOfficeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/1142/gfdzoa/gfdzoa-src/com/gfdz/service/hr/LeaveOfficeService.java
+END
+CertificateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/1254/gfdzoa/gfdzoa-src/com/gfdz/service/hr/CertificateService.java
+END
+LeaveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/1684/gfdzoa/gfdzoa-src/com/gfdz/service/hr/LeaveService.java
+END
+AttendanceServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/1652/gfdzoa/gfdzoa-src/com/gfdz/service/hr/AttendanceServiceI.java
+END
+EvaluationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1147/gfdzoa/gfdzoa-src/com/gfdz/service/hr/EvaluationService.java
+END
+CertificateFilesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/service/hr/CertificateFilesService.java
+END
+InterviewService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1142/gfdzoa/gfdzoa-src/com/gfdz/service/hr/InterviewService.java
+END
+TravelPathServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/hr/TravelPathServiceI.java
+END
+NoticeFilesServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1018/gfdzoa/gfdzoa-src/com/gfdz/service/hr/NoticeFilesServiceI.java
+END
+PersonInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1142/gfdzoa/gfdzoa-src/com/gfdz/service/hr/PersonInfoService.java
+END
+FamilyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/1142/gfdzoa/gfdzoa-src/com/gfdz/service/hr/FamilyService.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/interceptors
+END
+AuthInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/interceptors/AuthInterceptor.java
+END
+MyWebBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/interceptors/MyWebBinding.java
+END
+DateConvertEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/interceptors/DateConvertEditor.java
+END
+EncodingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/interceptors/EncodingInterceptor.java
+END
+LogInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/interceptors/LogInterceptor.java
+END

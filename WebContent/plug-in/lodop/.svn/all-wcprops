@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/lodop
+END
+install_lodop64.exe
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/lodop/install_lodop64.exe
+END
+install_lodop32.exe
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/lodop/install_lodop32.exe
+END
+LodopFuncs.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/lodop/LodopFuncs.js
+END

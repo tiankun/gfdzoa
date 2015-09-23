@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer
+END
+WMTS.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/WMTS.js
+END
+ArcGIS93Rest.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/ArcGIS93Rest.js
+END
+Text.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Text.js
+END
+GML.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/GML.js
+END
+Grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Grid.js
+END
+WFS.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/WFS.js
+END
+ArcGISCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/ArcGISCache.js
+END
+MultiMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/MultiMap.js
+END
+Bing.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Bing.js
+END
+Yahoo.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Yahoo.js
+END
+MapGuide.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/MapGuide.js
+END
+WMS.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/WMS.js
+END
+ArcIMS.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/ArcIMS.js
+END
+KaMapCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/KaMapCache.js
+END
+Image.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Image.js
+END
+PointTrack.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/PointTrack.js
+END
+WorldWind.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/WorldWind.js
+END
+XYZ.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/XYZ.js
+END
+FixedZoomLevels.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/FixedZoomLevels.js
+END
+PointGrid.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/PointGrid.js
+END
+TileCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/TileCache.js
+END
+Zoomify.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Zoomify.js
+END
+HTTPRequest.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/HTTPRequest.js
+END
+KaMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/KaMap.js
+END
+Vector.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Vector.js
+END
+EventPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/EventPane.js
+END
+GeoRSS.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/GeoRSS.js
+END
+VirtualEarth.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/VirtualEarth.js
+END
+MapServer.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/MapServer.js
+END
+SphericalMercator.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/SphericalMercator.js
+END
+TMS.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/TMS.js
+END
+Markers.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Markers.js
+END
+Google.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Google.js
+END
+Boxes.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Layer/Boxes.js
+END

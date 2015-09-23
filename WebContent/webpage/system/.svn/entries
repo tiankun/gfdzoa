@@ -1,0 +1,76 @@
+10
+
+dir
+1334
+https://10.0.0.91/svn/java/gfdzoa/WebContent/webpage/system
+https://10.0.0.91/svn/java
+
+
+
+2015-07-15T09:04:03.764750Z
+1302
+tiank
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a7589a77-4329-a747-bc3b-ef7bc7d73ace
+
+category
+dir
+
+dataRule
+dir
+
+dbsource
+dir
+
+depart
+dir
+
+document
+dir
+
+druid
+dir
+
+function
+dir
+
+icon
+dir
+
+log
+dir
+
+mutilang
+dir
+
+operation
+dir
+
+role
+dir
+
+territory
+dir
+
+timetask
+dir
+
+type
+dir
+
+user
+dir
+

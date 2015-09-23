@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/service/impl/acs
+END
+GoodsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/service/impl/acs/GoodsServiceImpl.java
+END
+SupplierServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/service/impl/acs/SupplierServiceImpl.java
+END
+OrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/service/impl/acs/OrderServiceImpl.java
+END
+ProfitServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/service/impl/acs/ProfitServiceImpl.java
+END

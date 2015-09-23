@@ -1,0 +1,132 @@
+10
+
+dir
+1334
+https://10.0.0.91/svn/java/gfdzoa/WebContent
+https://10.0.0.91/svn/java
+
+
+
+2015-07-17T07:45:25.655375Z
+1334
+fuy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a7589a77-4329-a747-bc3b-ef7bc7d73ace
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+context
+dir
+
+deployments
+dir
+
+export
+dir
+
+images
+dir
+
+index.jsp
+file
+
+
+
+
+2015-06-03T08:28:11.197000Z
+a00616e257f1b037f2933ab988210e0f
+2015-05-21T04:07:17.974375Z
+803
+fuy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+52
+
+init.jsp
+file
+
+
+
+
+2015-06-03T08:29:22.801000Z
+4e6b5b3734112a4185d832180899d32b
+2015-05-21T04:07:17.974375Z
+803
+fuy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+plug-in
+dir
+
+swftools
+dir
+
+temp
+dir
+
+upload
+dir
+
+userfiles
+dir
+
+webpage
+dir
+

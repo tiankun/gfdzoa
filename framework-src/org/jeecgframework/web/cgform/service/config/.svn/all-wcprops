@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/service/config
+END
+CgFormFieldServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/service/config/CgFormFieldServiceI.java
+END
+DbTableServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/service/config/DbTableServiceI.java
+END
+DbTableHandleI.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/service/config/DbTableHandleI.java
+END

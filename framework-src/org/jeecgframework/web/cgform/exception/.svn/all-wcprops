@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/exception
+END
+BusinessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/exception/BusinessException.java
+END
+DBException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/exception/DBException.java
+END

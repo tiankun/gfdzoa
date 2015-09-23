@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/buss/entity/acs
+END
+SupplierEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/entity/acs/SupplierEntity.java
+END
+GoodsEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/entity/acs/GoodsEntity.java
+END
+ProfitEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/buss/entity/acs/ProfitEntity.java
+END
+GoodsinoutEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/entity/acs/GoodsinoutEntity.java
+END
+OrderDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/entity/acs/OrderDetailEntity.java
+END
+OrderEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/801/gfdzoa/gfdzoa-src/com/buss/entity/acs/OrderEntity.java
+END

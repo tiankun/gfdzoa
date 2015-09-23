@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl
+END
+DeclareServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl/DeclareServiceImpl.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl/UserServiceImpl.java
+END
+MutiLangServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl/MutiLangServiceImpl.java
+END
+RepairServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl/RepairServiceImpl.java
+END
+CategoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl/CategoryServiceImpl.java
+END
+SystemServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl/SystemServiceImpl.java
+END
+MenuInitServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl/MenuInitServiceImpl.java
+END
+TimeTaskServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl/TimeTaskServiceImpl.java
+END
+DynamicDataSourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/impl/DynamicDataSourceServiceImpl.java
+END

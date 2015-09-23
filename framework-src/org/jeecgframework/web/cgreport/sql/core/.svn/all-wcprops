@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgreport/sql/core
+END
+CgReportDao_queryCgReportItems.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgreport/sql/core/CgReportDao_queryCgReportItems.sql
+END
+CgReportDao_queryCgReportMainConfig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgreport/sql/core/CgReportDao_queryCgReportMainConfig.sql
+END

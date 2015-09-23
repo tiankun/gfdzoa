@@ -1,0 +1,38 @@
+-- Create table
+create table CW_BILL_FILES
+(
+  id           NVARCHAR2(50) not null,
+  bill_id VARCHAR2(50)
+)
+tablespace OADB
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+-- Add comments to the table 
+comment on table CW_BILL_FILES
+  is '发票附件';
+-- Add comments to the columns 
+comment on column CW_BILL_FILES.id
+  is '编号';
+comment on column CW_BILL_FILES.bill_id
+  is '发票信息id';
+-- Create/Recreate primary, unique and foreign key constraints 
+alter table CW_BILL_FILES
+  add primary key (ID)
+  using index 
+  tablespace OADB
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );

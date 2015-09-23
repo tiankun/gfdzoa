@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine
+END
+jformunion.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/jformunion.ftl
+END
+jformonetomany.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/jformonetomany.ftl
+END
+demo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/demo.ftl
+END
+jformonetoone.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/jformonetoone.ftl
+END
+DBTempletLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/DBTempletLoader.java
+END
+TempletContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/TempletContext.java
+END
+FreemarkerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/FreemarkerHelper.java
+END
+jform.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/jform.ftl
+END
+jformhead.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/jformhead.ftl
+END
+jformonetomanytpl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/cgform/engine/jformonetomanytpl.ftl
+END

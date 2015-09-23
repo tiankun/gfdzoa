@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test
+END
+JeecgBlobDataServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/JeecgBlobDataServiceImpl.java
+END
+TFinanceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/TFinanceServiceImpl.java
+END
+TaskDemoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/TaskDemoServiceImpl.java
+END
+JeecgOrderMainServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/JeecgOrderMainServiceImpl.java
+END
+JeecgJdbcServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/JeecgJdbcServiceImpl.java
+END
+OptimisticLockingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/OptimisticLockingServiceImpl.java
+END
+CourseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/CourseServiceImpl.java
+END
+JpPersonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/JpPersonServiceImpl.java
+END
+JeecgMinidaoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/JeecgMinidaoServiceImpl.java
+END
+JeecgDemoCkfinderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/JeecgDemoCkfinderServiceImpl.java
+END
+JeecgNoteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/JeecgNoteServiceImpl.java
+END
+WebOfficeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/WebOfficeServiceImpl.java
+END
+JeecgDemoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/JeecgDemoServiceImpl.java
+END
+JeecgMatterBomServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/service/impl/test/JeecgMatterBomServiceImpl.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/exception
+END
+BusinessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/exception/BusinessException.java
+END
+MyExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/exception/MyExceptionHandler.java
+END

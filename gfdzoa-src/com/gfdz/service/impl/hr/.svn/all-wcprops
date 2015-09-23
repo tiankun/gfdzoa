@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/1381/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr
+END
+PersonChangeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/1143/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/PersonChangeServiceImpl.java
+END
+PersonContractServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/1143/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/PersonContractServiceImpl.java
+END
+EducationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/EducationServiceImpl.java
+END
+AttendanceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/1654/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/AttendanceServiceImpl.java
+END
+WorkExpServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1143/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/WorkExpServiceImpl.java
+END
+VacationArrangementServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/1654/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/VacationArrangementServiceImpl.java
+END
+RewardServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/1143/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/RewardServiceImpl.java
+END
+EducationFilesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/EducationFilesServiceImpl.java
+END
+PerformanceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/PerformanceServiceImpl.java
+END
+PersonContractFilesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/PersonContractFilesServiceImpl.java
+END
+LeaveTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/1090/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/LeaveTypeServiceImpl.java
+END
+LeaveOfficeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/1143/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/LeaveOfficeServiceImpl.java
+END
+WorkSummaryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/WorkSummaryServiceImpl.java
+END
+CertificateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/1254/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/CertificateServiceImpl.java
+END
+LeaveServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/1684/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/LeaveServiceImpl.java
+END
+NoticeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/1090/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/NoticeServiceImpl.java
+END
+TravelServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/1821/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/TravelServiceImpl.java
+END
+EvaluationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/1147/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/EvaluationServiceImpl.java
+END
+NoticeFilesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/1018/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/NoticeFilesServiceImpl.java
+END
+TravelPathServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/TravelPathServiceImpl.java
+END
+CertificateFilesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/CertificateFilesServiceImpl.java
+END
+InterviewServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/1143/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/InterviewServiceImpl.java
+END
+PersonInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/1143/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/PersonInfoServiceImpl.java
+END
+FamilyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/1143/gfdzoa/gfdzoa-src/com/gfdz/service/impl/hr/FamilyServiceImpl.java
+END

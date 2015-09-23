@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/qbc
+END
+CriterionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/qbc/CriterionList.java
+END
+PageList.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/qbc/PageList.java
+END
+CriteriaQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/java/!svn/ver/1510/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/qbc/CriteriaQuery.java
+END
+HqlQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/qbc/HqlQuery.java
+END
+PagerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/qbc/PagerUtil.java
+END
+DetachedCriteriaUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/java/!svn/ver/1633/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/qbc/DetachedCriteriaUtil.java
+END
+Pager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/qbc/Pager.java
+END

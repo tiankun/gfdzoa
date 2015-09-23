@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/java/!svn/ver/1740/gfdzoa/gfdzoa-src/com/gfdz/entity/cw
+END
+ReimburseDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1334/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/ReimburseDetailEntity.java
+END
+ReimburseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1420/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/ReimburseEntity.java
+END
+InOutRecordEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1821/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/InOutRecordEntity.java
+END
+AdvanceBackEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/AdvanceBackEntity.java
+END
+BillEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/1639/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/BillEntity.java
+END
+ExpensesPlanDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1377/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/ExpensesPlanDetailEntity.java
+END
+ExpensesPlanEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1410/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/ExpensesPlanEntity.java
+END
+AdvanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/1821/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/AdvanceEntity.java
+END
+PayforDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1721/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/PayforDetailEntity.java
+END
+BillReceiptEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/BillReceiptEntity.java
+END
+PayforEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/1722/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/PayforEntity.java
+END
+BillFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1396/gfdzoa/gfdzoa-src/com/gfdz/entity/cw/BillFilesEntity.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/java/!svn/ver/803/gfdzoa/WebContent/webpage/common
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/803/gfdzoa/WebContent/webpage/common/404.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/803/gfdzoa/WebContent/webpage/common/error.jsp
+END
+noAuth.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/803/gfdzoa/WebContent/webpage/common/noAuth.jsp
+END

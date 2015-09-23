@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service
+END
+MutiLangServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/MutiLangServiceI.java
+END
+DeclareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/DeclareService.java
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/UserService.java
+END
+RepairService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/RepairService.java
+END
+DynamicDataSourceServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/DynamicDataSourceServiceI.java
+END
+SystemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/SystemService.java
+END
+MenuInitService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/MenuInitService.java
+END
+TimeTaskServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/TimeTaskServiceI.java
+END
+CategoryServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/service/CategoryServiceI.java
+END

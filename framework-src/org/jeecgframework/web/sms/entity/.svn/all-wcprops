@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/entity
+END
+TSSmsTemplateSqlEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/entity/TSSmsTemplateSqlEntity.java
+END
+TSSmsEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/entity/TSSmsEntity.java
+END
+TSSmsTemplateEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/entity/TSSmsTemplateEntity.java
+END
+TSSmsSqlEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/entity/TSSmsSqlEntity.java
+END

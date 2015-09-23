@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry
+END
+MultiPoint.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/MultiPoint.js
+END
+LinearRing.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/LinearRing.js
+END
+LineString.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/LineString.js
+END
+MultiPolygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/MultiPolygon.js
+END
+Point.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/Point.js
+END
+Curve.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/Curve.js
+END
+Rectangle.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/Rectangle.js
+END
+MultiLineString.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/MultiLineString.js
+END
+Collection.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/Collection.js
+END
+Surface.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/Surface.js
+END
+Polygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/lib/OpenLayers/Geometry/Polygon.js
+END

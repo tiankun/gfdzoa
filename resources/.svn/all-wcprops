@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/java/!svn/ver/1310/gfdzoa/resources
+END
+dbconfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/java/!svn/ver/1094/gfdzoa/resources/dbconfig.properties
+END
+processConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/1585/gfdzoa/resources/processConstants.properties
+END
+sysConfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/java/!svn/ver/1595/gfdzoa/resources/sysConfig.properties
+END
+spring-mvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/java/!svn/ver/802/gfdzoa/resources/spring-mvc.xml
+END
+spring-minidao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/java/!svn/ver/802/gfdzoa/resources/spring-minidao.xml
+END
+spring-mvc-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/java/!svn/ver/802/gfdzoa/resources/spring-mvc-context.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/java/!svn/ver/802/gfdzoa/resources/log4j.properties
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/java/!svn/ver/802/gfdzoa/resources/ehcache.xml
+END
+spring-mvc-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/java/!svn/ver/802/gfdzoa/resources/spring-mvc-aop.xml
+END
+spring-mvc-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/802/gfdzoa/resources/spring-mvc-hibernate.xml
+END
+CKfinderConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/java/!svn/ver/802/gfdzoa/resources/CKfinderConfig.xml
+END
+spring-mvc-activiti.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/802/gfdzoa/resources/spring-mvc-activiti.xml
+END
+spring-mvc-timeTask.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/802/gfdzoa/resources/spring-mvc-timeTask.xml
+END

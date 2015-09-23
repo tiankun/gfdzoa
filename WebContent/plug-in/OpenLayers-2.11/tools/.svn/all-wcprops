@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools
+END
+shrinksafe.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/shrinksafe.py
+END
+branch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/branch.sh
+END
+oldot.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/oldot.py
+END
+exampleparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/exampleparser.py
+END
+jsmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/jsmin.py
+END
+BeautifulSoup.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/BeautifulSoup.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/README.txt
+END
+rc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/rc.sh
+END
+mergejs.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/mergejs.py
+END
+update_dev_dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/update_dev_dir.sh
+END
+closure_ws.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/closure_ws.py
+END
+minimize.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/minimize.py
+END
+mkrelease.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/mkrelease.sh
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/release.sh
+END
+closure.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/closure.py
+END
+jsmin.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/jsmin.c
+END
+toposort.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/803/gfdzoa/WebContent/plug-in/OpenLayers-2.11/tools/toposort.py
+END

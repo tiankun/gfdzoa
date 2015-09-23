@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/1771/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc
+END
+PurchaseExecuteDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/PurchaseExecuteDetailServiceImpl.java
+END
+ProjectInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/1580/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/ProjectInfoServiceImpl.java
+END
+BudgetApprovalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/1615/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/BudgetApprovalServiceImpl.java
+END
+QualityCheckServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/QualityCheckServiceImpl.java
+END
+PurchasePlanServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/1838/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/PurchasePlanServiceImpl.java
+END
+PurchaseExecuteConfirmServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/PurchaseExecuteConfirmServiceImpl.java
+END
+TransferFilesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/1102/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/TransferFilesServiceImpl.java
+END
+CodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1570/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/CodeServiceImpl.java
+END
+CostApprovalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/1661/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/CostApprovalServiceImpl.java
+END
+ProjectScheduleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/1610/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/ProjectScheduleServiceImpl.java
+END
+PurchaseDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/PurchaseDetailServiceImpl.java
+END
+PurchaseExecuteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/PurchaseExecuteServiceImpl.java
+END
+JsTransferServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/JsTransferServiceImpl.java
+END
+SafetyCheckServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/SafetyCheckServiceImpl.java
+END
+MaterialBaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/MaterialBaseServiceImpl.java
+END
+PurchasePlanDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/PurchasePlanDetailServiceImpl.java
+END
+SafeEducationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/SafeEducationServiceImpl.java
+END
+ProjectTaskServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/ProjectTaskServiceImpl.java
+END
+WagesDeclareServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/1783/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/WagesDeclareServiceImpl.java
+END
+QualityRetentionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/1742/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/QualityRetentionServiceImpl.java
+END
+ProjectScheduleDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/ProjectScheduleDetailServiceImpl.java
+END
+PurchaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/1841/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/PurchaseServiceImpl.java
+END
+ProjectAcceptServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/1718/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/ProjectAcceptServiceImpl.java
+END
+JsTransferFilesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/1102/gfdzoa/gfdzoa-src/com/gfdz/service/impl/gc/JsTransferFilesServiceImpl.java
+END

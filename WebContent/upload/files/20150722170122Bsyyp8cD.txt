@@ -1,0 +1,48 @@
+/*第1步：创建临时表空间  */
+create temporary tablespace SSS_TEMP 
+tempfile 'D:\oracle\product\10.2.0\oradata\orcl\SSS_TEMP.DBF'
+size 2048 m 
+autoextend on  
+next 50 m maxsize 5120m 
+extent management local;  
+
+/*第2步：创建数据表空间  */
+create tablespace SSS
+nologging 
+datafile 'D:\oracle\product\10.2.0\oradata\orcl\SSS.DBF'
+size 5120 m 
+autoextend on  
+next 50 m maxsize 10240m 
+extent management local; 
+ 
+/*第3步：创建用户并指定表空间  */
+create user sss identified by "123" 
+default tablespace SSS
+temporary tablespace SSS_TEMP; 
+ 
+/*第4步：给用户授予权限  */
+grant connect ,resource, dba to sss;
+
+
+1）查找死锁的进程： 
+
+
+
+sqlplus "/as sysdba" (sys/change_on_install)
+SELECT s.username,l.OBJECT_ID,l.SESSION_ID,s.SERIAL#,
+l.ORACLE_USERNAME,l.OS_USER_NAME,l.PROCESS 
+FROM V$LOCKED_OBJECT l,V$SESSION S WHERE l.SESSION_ID=S.SID;
+
+2）kill掉这个死锁的进程： 
+
+　　alter system kill session ‘sid,serial#’; （其中sid=l.session_id） 
+
+3）如果还不能解决： 
+
+select pro.spid from v$session ses,v$process pro where ses.sid=XX and ses.paddr=pro.addr;
+
+　　其中sid用死锁的sid替换: exit
+ps -ef|grep spid
+
+　　其中spid是这个进程的进程号，kill掉这个Oracle进程
+

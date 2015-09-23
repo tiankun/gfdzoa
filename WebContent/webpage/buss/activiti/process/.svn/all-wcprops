@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/1227/gfdzoa/WebContent/webpage/buss/activiti/process
+END
+finishedTask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/803/gfdzoa/WebContent/webpage/buss/activiti/process/finishedTask.jsp
+END
+processlist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1795/gfdzoa/WebContent/webpage/buss/activiti/process/processlist.jsp
+END
+runninglist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/803/gfdzoa/WebContent/webpage/buss/activiti/process/runninglist.jsp
+END
+addProcess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1194/gfdzoa/WebContent/webpage/buss/activiti/process/addProcess.jsp
+END
+claimedTask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1830/gfdzoa/WebContent/webpage/buss/activiti/process/claimedTask.jsp
+END
+waitingClaimTask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/803/gfdzoa/WebContent/webpage/buss/activiti/process/waitingClaimTask.jsp
+END
+datagrid_data1.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/803/gfdzoa/WebContent/webpage/buss/activiti/process/datagrid_data1.json
+END
+viewProcessInstanceHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/803/gfdzoa/WebContent/webpage/buss/activiti/process/viewProcessInstanceHistory.jsp
+END
+myViewProcessHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/1850/gfdzoa/WebContent/webpage/buss/activiti/process/myViewProcessHistory.jsp
+END

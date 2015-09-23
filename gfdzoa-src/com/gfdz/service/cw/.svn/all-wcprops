@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/java/!svn/ver/1425/gfdzoa/gfdzoa-src/com/gfdz/service/cw
+END
+ReimburseDetailServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/cw/ReimburseDetailServiceI.java
+END
+ReimburseServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1338/gfdzoa/gfdzoa-src/com/gfdz/service/cw/ReimburseServiceI.java
+END
+AdvanceBackServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/cw/AdvanceBackServiceI.java
+END
+BillServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/1638/gfdzoa/gfdzoa-src/com/gfdz/service/cw/BillServiceI.java
+END
+ExpensesPlanDetailServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/cw/ExpensesPlanDetailServiceI.java
+END
+ExpensesPlanServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1344/gfdzoa/gfdzoa-src/com/gfdz/service/cw/ExpensesPlanServiceI.java
+END
+AdvanceServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/cw/AdvanceServiceI.java
+END
+PayforDetailServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1425/gfdzoa/gfdzoa-src/com/gfdz/service/cw/PayforDetailServiceI.java
+END
+BillReceiptServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/cw/BillReceiptServiceI.java
+END
+PayforServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1731/gfdzoa/gfdzoa-src/com/gfdz/service/cw/PayforServiceI.java
+END

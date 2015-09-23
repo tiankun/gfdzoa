@@ -1,0 +1,52 @@
+<modify-entry
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   name="getUser.jsp"
+   has-props="false"
+   present-props=""/>
+<modify-entry
+   committed-rev="1865"
+   last-author="fuy"
+   name="getUser.jsp"
+   uuid="a7589a77-4329-a747-bc3b-ef7bc7d73ace"
+   committed-date="2015-09-15T08:36:06.344861Z"/>
+<modify-wcprop
+   name="getUser.jsp"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/java/!svn/ver/1865/gfdzoa/WebContent/webpage/system/user/getUser.jsp"/>
+<modify-entry
+   kind="file"
+   deleted="false"
+   absent="false"
+   name="getUser.jsp"
+   revision="1865"
+   working-size="-1"
+   text-time="1970-01-01T00:00:00.000000Z"
+   url="https://10.0.0.91/svn/java/gfdzoa/WebContent/webpage/system/user/getUser.jsp"/>
+<cp-and-translate
+   dest="getUser.jsp"
+   name=".svn/tmp/text-base/getUser.jsp.svn-base"/>
+<mv
+   dest=".svn/text-base/getUser.jsp.svn-base"
+   name=".svn/tmp/text-base/getUser.jsp.svn-base"/>
+<readonly
+   name=".svn/text-base/getUser.jsp.svn-base"/>
+<modify-entry
+   checksum="788eceed33d04728bd2275840743e355"
+   name="getUser.jsp"/>
+<modify-entry
+   name="getUser.jsp"
+   text-time="working"/>
+<modify-entry
+   name="getUser.jsp"
+   working-size="working"/>
+<modify-entry
+   committed-rev="1865"
+   last-author="fuy"
+   name=""
+   uuid="a7589a77-4329-a747-bc3b-ef7bc7d73ace"
+   committed-date="2015-09-15T08:36:06.344861Z"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/java/!svn/ver/1865/gfdzoa/WebContent/webpage/system/user"/>

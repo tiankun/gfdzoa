@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1254/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core
+END
+DepartController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/java/!svn/ver/1254/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/DepartController.java
+END
+TimeTaskController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/TimeTaskController.java
+END
+SystemController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/SystemController.java
+END
+RepairController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/java/!svn/ver/1845/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/RepairController.java
+END
+UserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/1633/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/UserController.java
+END
+MutiLangController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/MutiLangController.java
+END
+CommonController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/CommonController.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/1556/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/LoginController.java
+END
+IconImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/IconImageUtil.java
+END
+DataSourceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/DataSourceController.java
+END
+DynamicDataSourceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/java/!svn/ver/1094/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/DynamicDataSourceController.java
+END
+LogController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/LogController.java
+END
+ConfigController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/ConfigController.java
+END
+CategoryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/CategoryController.java
+END
+TerritoryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/TerritoryController.java
+END
+IconController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/IconController.java
+END
+FunctionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/FunctionController.java
+END
+DuplicateCheckAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/DuplicateCheckAction.java
+END
+RoleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/1567/gfdzoa/framework-src/org/jeecgframework/web/system/controller/core/RoleController.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/service/impl
+END
+TSSmsTemplateSqlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/service/impl/TSSmsTemplateSqlServiceImpl.java
+END
+TSSmsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/service/impl/TSSmsServiceImpl.java
+END
+TSSmsTemplateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/service/impl/TSSmsTemplateServiceImpl.java
+END
+TSSmsSqlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/web/sms/service/impl/TSSmsSqlServiceImpl.java
+END

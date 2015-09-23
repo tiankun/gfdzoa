@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/dao/jdbc
+END
+JdbcDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/dao/jdbc/JdbcDao.java
+END
+SimpleJdbcTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/dao/jdbc/SimpleJdbcTemplate.java
+END

@@ -1,0 +1,911 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib
+END
+org.quartz-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/org.quartz-1.6.2.jar
+END
+commons-io-1.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-io-1.3.2.jar
+END
+ant-1.6.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/ant-1.6.5.jar
+END
+validation-api-1.0.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/validation-api-1.0.0.GA.jar
+END
+commons-codec-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-codec-1.3.jar
+END
+activiti-engine-5.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/activiti-engine-5.16.jar
+END
+ehcache-core-2.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/ehcache-core-2.4.3.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar
+END
+ezmorph-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/ezmorph-1.0.3.jar
+END
+commons-email-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-email-1.2.jar
+END
+spring-asm-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-asm-3.1.1.RELEASE.jar
+END
+spring-jdbc-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-jdbc-3.1.1.RELEASE.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/slf4j-log4j12-1.6.1.jar
+END
+jstl-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jstl-1.2.jar
+END
+juh-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/juh-3.2.1.jar
+END
+hibernate-validator-4.2.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/hibernate-validator-4.2.0.Final.jar
+END
+ridl-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/ridl-3.2.1.jar
+END
+batik-svggen-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-svggen-1.7.jar
+END
+mybatis-spring-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/mybatis-spring-1.1.1.jar
+END
+activiti-bpmn-model-5.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/activiti-bpmn-model-5.16.jar
+END
+jacob-1.14.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jacob-1.14.3.jar
+END
+activiti-image-generator-5.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/activiti-image-generator-5.16.jar
+END
+asm-all-4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/asm-all-4.1.jar
+END
+activation-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/activation-1.1.1.jar
+END
+batik-transcoder-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-transcoder-1.7.jar
+END
+commons-chain-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-chain-1.2.jar
+END
+batik-util-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-util-1.7.jar
+END
+unoil-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/unoil-3.2.1.jar
+END
+freemarker-2.3.19.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/freemarker-2.3.19.jar
+END
+fastjson-1.1.37.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/fastjson-1.1.37.jar
+END
+xpp3_min-1.1.4c.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xpp3_min-1.1.4c.jar
+END
+ognl-2.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/ognl-2.7.3.jar
+END
+batik-bridge-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-bridge-1.7.jar
+END
+stax-api-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/stax-api-1.0.1.jar
+END
+batik-anim-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-anim-1.7.jar
+END
+spring-context-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-context-3.1.1.RELEASE.jar
+END
+geronimo-spec-javamail-1.3.1-rc3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/geronimo-spec-javamail-1.3.1-rc3.jar
+END
+hibernate-ehcache-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/hibernate-ehcache-4.1.0.Final.jar
+END
+antlr-3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/antlr-3.3.jar
+END
+batik-css-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-css-1.7.jar
+END
+postgresql-9.1-903.jdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/postgresql-9.1-903.jdbc4.jar
+END
+antlr-runtime-3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/antlr-runtime-3.3.jar
+END
+easypoi-base-2.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/easypoi-base-2.0.5.jar
+END
+mail-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/mail-1.4.1.jar
+END
+activiti-process-validation-5.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/activiti-process-validation-5.16.jar
+END
+xmlgraphics-commons-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xmlgraphics-commons-1.4.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+END
+spring-beans-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-beans-3.1.1.RELEASE.jar
+END
+avalon-framework-api-4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/avalon-framework-api-4.3.jar
+END
+spring-tx-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-tx-3.1.1.RELEASE.jar
+END
+spring-webmvc-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-webmvc-3.1.1.RELEASE.jar
+END
+cglib-nodep-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/cglib-nodep-2.2.jar
+END
+avalon-framework-api-4.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/avalon-framework-api-4.3.1.jar
+END
+classmate-0.5.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/classmate-0.5.4.jar
+END
+fop-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/fop-1.0.jar
+END
+poi-scratchpad-3.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/poi-scratchpad-3.9.jar
+END
+CKFinderPlugin-ImageResize-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/CKFinderPlugin-ImageResize-2.4.jar
+END
+commons-logging-api-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-logging-api-1.1.jar
+END
+batik-xml-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-xml-1.7.jar
+END
+proxool-0.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/proxool-0.8.3.jar
+END
+druid-0.2.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/druid-0.2.9.jar
+END
+batik-all-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-all-1.6.jar
+END
+batik-ext-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-ext-1.7.jar
+END
+aspectjweaver-1.6.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/aspectjweaver-1.6.9.jar
+END
+jodd-3.3.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jodd-3.3.7.jar
+END
+gson-2.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/gson-2.2.4.jar
+END
+jurt-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jurt-3.2.1.jar
+END
+xml-apis-1.3.04.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xml-apis-1.3.04.jar
+END
+jodconverter-3.0-beta-4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jodconverter-3.0-beta-4.jar
+END
+xercesImpl-2.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xercesImpl-2.7.1.jar
+END
+spring-expression-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-expression-3.1.1.RELEASE.jar
+END
+hibernate-validator-annotation-processor-4.2.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/hibernate-validator-annotation-processor-4.2.0.Final.jar
+END
+jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+END
+org-apache-commons-logging-1.0.4-201003011305.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/org-apache-commons-logging-1.0.4-201003011305.jar
+END
+proxool-cglib-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/proxool-cglib-0.9.1.jar
+END
+jtds-1.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jtds-1.2.4.jar
+END
+commons-lang3-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-lang3-3.1.jar
+END
+jboss-logging-3.1.0.CR2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jboss-logging-3.1.0.CR2.jar
+END
+pinyin4j-2.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/pinyin4j-2.5.0.jar
+END
+commons-pool-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-pool-1.6.jar
+END
+batik-script-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-script-1.7.jar
+END
+commons-validator-1.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-validator-1.3.1.jar
+END
+batik-dom-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-dom-1.7.jar
+END
+activiti-bpmn-converter-5.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/activiti-bpmn-converter-5.16.jar
+END
+mysql-connector-java-5.1.27.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/mysql-connector-java-5.1.27.jar
+END
+jackson-mapper-asl-1.8.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jackson-mapper-asl-1.8.4.jar
+END
+commons-digester-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-digester-2.0.jar
+END
+fop-0.94.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/fop-0.94.jar
+END
+joda-time-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/joda-time-2.1.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-lang-2.6.jar
+END
+jboss-vfs-3.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jboss-vfs-3.1.0.Final.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/antlr-2.7.7.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+poi-ooxml-3.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/poi-ooxml-3.9.jar
+END
+xml-apis-ext-1.3.04.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xml-apis-ext-1.3.04.jar
+END
+jdbc2005-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jdbc2005-1.0.0.jar
+END
+activiti-spring-5.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/activiti-spring-5.16.jar
+END
+batik-svg-dom-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-svg-dom-1.7.jar
+END
+javassist-3.7.ga.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/javassist-3.7.ga.jar
+END
+proxool-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/proxool-0.9.1.jar
+END
+org-apache-batik-all-1.7-201003011305.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/org-apache-batik-all-1.7-201003011305.jar
+END
+thumbnailator-0.4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/thumbnailator-0.4.6.jar
+END
+batik-awt-util-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-awt-util-1.7.jar
+END
+xmlbeans-2.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xmlbeans-2.3.0.jar
+END
+stringtemplate-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/stringtemplate-3.2.1.jar
+END
+spring-web-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-web-3.1.1.RELEASE.jar
+END
+batik-gvt-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-gvt-1.7.jar
+END
+groovy-2.3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/groovy-2.3.3.jar
+END
+easypoi-web-2.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/easypoi-web-2.0.5.jar
+END
+mybatis-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/mybatis-3.1.1.jar
+END
+spring-aspects-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-aspects-3.1.1.RELEASE.jar
+END
+xalan-2.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xalan-2.7.0.jar
+END
+spring-core-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-core-3.1.1.RELEASE.jar
+END
+poi-ooxml-schemas-3.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/poi-ooxml-schemas-3.9.jar
+END
+xmlpull-1.1.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xmlpull-1.1.3.1.jar
+END
+aspectjrt-1.6.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/aspectjrt-1.6.9.jar
+END
+spring-orm-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-orm-3.1.1.RELEASE.jar
+END
+json-lib-2.1-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/json-lib-2.1-jdk15.jar
+END
+CKFinder-updateByAlexander-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/CKFinder-updateByAlexander-2.4.jar
+END
+jackson-1.84.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jackson-1.84.jar
+END
+xwork-core-2.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xwork-core-2.1.6.jar
+END
+spring-context-support-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-context-support-3.1.1.RELEASE.jar
+END
+codegenerate-3.4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/codegenerate-3.4.6.jar
+END
+hibernate-commons-annotations-4.0.2.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/hibernate-commons-annotations-4.0.2.Final.jar
+END
+hibernate-proxool-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/hibernate-proxool-4.1.0.Final.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-dbcp-1.4.jar
+END
+junit-4.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/junit-4.7.jar
+END
+com.springsource.org.junit-4.9.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/com.springsource.org.junit-4.9.0.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/slf4j-api-1.6.1.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/aopalliance-1.0.jar
+END
+CKFinderPlugin-FileEditor-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/CKFinderPlugin-FileEditor-2.4.jar
+END
+javassist-3.15.0-GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/javassist-3.15.0-GA.jar
+END
+batik-parser-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-parser-1.7.jar
+END
+CKFinderPlugin-Watermark-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/CKFinderPlugin-Watermark-2.4.jar
+END
+hibernate-jpa-2.0-api-1.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar
+END
+spring-aop-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/spring-aop-3.1.1.RELEASE.jar
+END
+xstream-1.4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/xstream-1.4.4.jar
+END
+ognl-2.6.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/ognl-2.6.11.jar
+END
+commons-fileupload-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar
+END
+ojdbc14-10.2.0.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/ojdbc14-10.2.0.5.0.jar
+END
+geronimo-spec-jms-1.1-rc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/geronimo-spec-jms-1.1-rc4.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/log4j-1.2.16.jar
+END
+guava-16.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/guava-16.0.1.jar
+END
+jackson-core-asl-1.8.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/jackson-core-asl-1.8.4.jar
+END
+poi-3.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/poi-3.9.jar
+END
+minidao-1.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/minidao-1.4.0.jar
+END
+avalon-logkit-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/avalon-logkit-2.1.jar
+END
+commons-beanutils-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/commons-beanutils-1.7.0.jar
+END
+avalon-framework-impl-4.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/avalon-framework-impl-4.3.1.jar
+END
+batik-js-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/batik-js-1.7.jar
+END
+hibernate-core-4.2.3.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/803/gfdzoa/WebContent/WEB-INF/lib/hibernate-core-4.2.3.Final.jar
+END

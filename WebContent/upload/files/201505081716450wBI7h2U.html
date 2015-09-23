@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="JS代码,焦点图,JS广告代码,JS特效代码" />
+<meta name="description" content="此代码内容为仿2015汽车之家首页焦点图，属于站长常用代码，更多焦点图代码请访问懒人图库JS代码频道。" />
+<title>仿2015汽车之家首页焦点图_懒人图库</title>
+<link href="css/lrtk.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/lrtk.js"></script>
+<script>
+  window.onload = function()
+  {
+	  var oBox = document.getElementById('box');
+	  var oPrev = getByClass(oBox,'prev')[0];
+	  var oNext = getByClass(oBox,'next')[0];
+	  var oBigUl = getByClass(oBox,'bigUl')[0];
+	  var aLiBig = oBigUl.getElementsByTagName('li');
+	  var oNumUl = getByClass(oBox,'numberUl')[0];
+	  var aLiNumber = oNumUl.getElementsByTagName('li');
+	  var oTextUl = getByClass(oBox,'textUl')[0];
+	  var aLiText = oTextUl.getElementsByTagName('li');
+	  var nowZindex = 1;
+	  var now = 0;
+	  function tab()
+	  {
+		   for(var i=0; i<aLiNumber.length; i++)
+			  {
+				  aLiNumber[i].className = '';
+			  }
+			  aLiNumber[now].className = 'night';
+			  
+		  aLiBig[now].style.zIndex = nowZindex++;
+		  aLiBig[now].style.opacity = 0;
+		  startMove(aLiBig[now],'opacity',100);
+		  for(var i=0; i<aLiText.length; i++)
+		  {
+			  aLiText[i].style.display = 'none';
+		  }
+		  aLiText[now].style.display = 'block'
+		  
+	  }
+	  
+	  for(var i=0; i<aLiNumber.length; i++)
+	  {
+		  aLiNumber[i].index = i;
+		  aLiNumber[i].onclick = function()
+		  {
+			 
+			  if(this.index==now)return;
+			  now = this.index;
+			 
+			  tab();
+		  }
+	  }
+	  oNext.onmouseover = oPrev.onmouseover = oBigUl.onmouseover = function()
+	  {
+		  startMove(oPrev,'opacity',100);
+		   startMove(oNext,'opacity',100)
+	  }
+	   oNext.onmouseout = oPrev.onmouseout = oBigUl.onmouseout = function()
+	  {
+		  startMove(oPrev,'opacity',0);
+		  startMove(oNext,'opacity',0)
+	  }
+	  oPrev.onclick = function()
+	  {
+		  now--
+		  if(now==-1)
+		  {
+			  now=aLiNumber.length-1;
+		  }
+		  tab();
+	  }
+	  
+	    oNext.onclick = function()
+	  {
+		  now++
+		  if(now==aLiNumber.length)
+		  {
+			  now=0;
+		  }
+		  tab();
+	  }
+	  
+	  var timer = setInterval(oNext.onclick,3000)
+	  oBox.onmouseover = function()
+	  {
+		  clearInterval(timer)
+	  }
+	  oBox.onmouseout = function()
+	  {
+		  timer = setInterval(oNext.onclick,3000)//改变速度修改3000 ，例如3000=3秒钟
+	  }
+  }
+</script>
+<base target="_blank" />
+</head>
+<body>
+<!-- 代码 开始 -->
+<div id="box">
+    <div class="prev"></div>
+    <div class="next"></div>
+    <ul class="bigUl">
+       <li style="z-index:1"><a href="http://www.lanrentuku.com/"><img src="images/1.jpg" alt="图1" /></a></li>
+       <li><a href="http://www.lanrentuku.com/"><img src="images/2.jpg" alt="图2" /></a></li>
+       <li><a href="http://www.lanrentuku.com/"><img src="images/3.jpg" alt="图3" /></a></li>
+       <li><a href="http://www.lanrentuku.com/"><img src="images/4.jpg" alt="图4" /></a></li>
+       <li><a href="http://www.lanrentuku.com/"><img src="images/5.jpg" alt="图5" /></a></li>
+       <li><a href="http://www.lanrentuku.com/"><img src="images/6.jpg" alt="图6" /></a></li>
+       <li><a href="http://www.lanrentuku.com/"><img src="images/7.jpg" alt="图7" /></a></li>
+    </ul>
+    <ul class="numberUl">
+      <li class="night"><a href="javascript:;">1</a></li>
+      <li><a href="javascript:;">2</a></li>
+      <li><a href="javascript:;">3</a></li>
+      <li><a href="javascript:;">4</a></li>
+      <li><a href="javascript:;">5</a></li>
+      <li><a href="javascript:;">6</a></li>
+      <li><a href="javascript:;">7</a></li>
+    </ul>
+    <div>
+      <ul class="textUl">
+        <li style="display:block;"><a href="http://www.lanrentuku.com/">定位精品路线 原创试驾奇瑞艾瑞泽3</a></li>
+        <li><a href="http://www.lanrentuku.com/">锂电池是亮点 米儿低速电动车设计解读</a></li>
+        <li><a href="http://www.lanrentuku.com/">舒适及操控更上一层楼 测试长安金欧诺</a></li>
+        <li><a href="http://www.lanrentuku.com/">外观动感/配置丰富 天籁2.0L用车记</a></li>
+        <li><a href="http://www.lanrentuku.com/">走到哪都信心十足 普拉多用车心得</a></li>
+        <li><a href="http://www.lanrentuku.com/">全新东风标致508 驾乘尽享的中高级杰座</a></li>
+        <li><a href="http://www.lanrentuku.com/">C4L 动力快人一步礼遇更胜一筹</a></li>
+      </ul>
+    </div>
+ </div>
+<!-- 代码 结束 -->
+
+<div style="text-align:center;margin:50px 0">
+<p>作者：吴松 微信或者QQ：360710942　代码整理：<a href="http://www.lanrentuku.com/" target="_blank">懒人图库</a>　感谢：<a href="http://zheye.cc/" target="_blank">折页网</a></p>
+<p>＊尊重他人劳动成果，转载请自觉注明出处！注：此代码仅供学习交流，请勿用于商业用途。</p>
+<p></p>
+<p><p>仿2015汽车之家首页焦点图，可灵活自定义，兼容主流浏览器，懒人图库推荐下载！</p><p><br /></p><p>使用方法：</p><p>1、在head区域引入样式表文件lrtk.css</p><p>2、在head区域引入lrtk.js和顶部JS调用</p><p>3、在你的网页中加入&lt;!-- 代码 开始 --&gt;&lt;!-- 代码 结束 --&gt;注释区域代码即可。</p></p>
+<p style="margin:20px 0"></p>
+</div>
+</body>
+</html>

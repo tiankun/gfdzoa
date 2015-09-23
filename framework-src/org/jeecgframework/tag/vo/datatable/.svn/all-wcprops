@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/tag/vo/datatable
+END
+DataTables.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/tag/vo/datatable/DataTables.java
+END
+SortInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/tag/vo/datatable/SortInfo.java
+END
+FilterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/tag/vo/datatable/FilterInfo.java
+END
+DataTableReturn.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/tag/vo/datatable/DataTableReturn.java
+END
+ColumnInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/tag/vo/datatable/ColumnInfo.java
+END
+SortDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/tag/vo/datatable/SortDirection.java
+END

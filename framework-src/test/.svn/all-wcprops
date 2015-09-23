@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/java/!svn/ver/801/gfdzoa/framework-src/test
+END
+init.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/java/!svn/ver/801/gfdzoa/framework-src/test/init.ftl
+END
+JeecgOneToMainUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/801/gfdzoa/framework-src/test/JeecgOneToMainUtil.java
+END
+JeecgInitDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/801/gfdzoa/framework-src/test/JeecgInitDB.java
+END
+JeecgOneGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/801/gfdzoa/framework-src/test/JeecgOneGUI.java
+END

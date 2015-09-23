@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/sql/test
+END
+JeecgJdbcService_listAllByJdbc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/sql/test/JeecgJdbcService_listAllByJdbc.sql
+END
+JeecgMinidaoDao_update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/sql/test/JeecgMinidaoDao_update.sql
+END
+JeecgMinidaoDao_insert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/sql/test/JeecgMinidaoDao_insert.sql
+END
+JeecgMinidaoDao_delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/sql/test/JeecgMinidaoDao_delete.sql
+END
+JeecgMinidaoDao_getJeecgDemo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/sql/test/JeecgMinidaoDao_getJeecgDemo.sql
+END
+JeecgMinidaoDao_getAllEntities.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/sql/test/JeecgMinidaoDao_getAllEntities.sql
+END
+JeecgMinidaoDao_getAllEntities2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/800/gfdzoa/demo-src/org/jeecgframework/web/demo/sql/test/JeecgMinidaoDao_getAllEntities2.sql
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/java/!svn/ver/1361/gfdzoa/gfdzoa-src/com/gfdz/entity/hr
+END
+VacationArrangementEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/1651/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/VacationArrangementEntity.java
+END
+WorkExpEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/1141/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/WorkExpEntity.java
+END
+AttendanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/1650/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/AttendanceEntity.java
+END
+EducationEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/EducationEntity.java
+END
+PersonContractEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/PersonContractEntity.java
+END
+PersonChangeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1141/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/PersonChangeEntity.java
+END
+FamilyEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/1141/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/FamilyEntity.java
+END
+PersonInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/1141/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/PersonInfoEntity.java
+END
+InterviewEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1141/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/InterviewEntity.java
+END
+CertificateFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/CertificateFilesEntity.java
+END
+NoticeFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1510/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/NoticeFilesEntity.java
+END
+TravelPathEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/1361/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/TravelPathEntity.java
+END
+PerformanceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1254/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/PerformanceBean.java
+END
+EvaluationEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/1254/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/EvaluationEntity.java
+END
+TravelEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/1670/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/TravelEntity.java
+END
+NoticeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/NoticeEntity.java
+END
+CertificateEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1254/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/CertificateEntity.java
+END
+LeaveEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/LeaveEntity.java
+END
+WorkSummaryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/WorkSummaryEntity.java
+END
+LeaveOfficeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1141/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/LeaveOfficeEntity.java
+END
+LeaveTypeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/1094/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/LeaveTypeEntity.java
+END
+PerformanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1254/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/PerformanceEntity.java
+END
+PersonContractFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/PersonContractFilesEntity.java
+END
+RewardEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/1141/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/RewardEntity.java
+END
+EducationFilesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1248/gfdzoa/gfdzoa-src/com/gfdz/entity/hr/EducationFilesEntity.java
+END

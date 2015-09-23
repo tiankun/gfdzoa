@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/java/!svn/ver/1771/gfdzoa/gfdzoa-src/com/gfdz/service/gc
+END
+PurchasePlanDetailServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/PurchasePlanDetailServiceI.java
+END
+SafeEducationServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/SafeEducationServiceI.java
+END
+BudgetApprovalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/1613/gfdzoa/gfdzoa-src/com/gfdz/service/gc/BudgetApprovalService.java
+END
+MaterialBaseServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/MaterialBaseServiceI.java
+END
+SafetyCheckServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/SafetyCheckServiceI.java
+END
+JsTransferServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/JsTransferServiceI.java
+END
+PurchaseExecuteServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/PurchaseExecuteServiceI.java
+END
+PurchaseDetailServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/PurchaseDetailServiceI.java
+END
+CostApprovalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1632/gfdzoa/gfdzoa-src/com/gfdz/service/gc/CostApprovalService.java
+END
+ProjectScheduleServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1604/gfdzoa/gfdzoa-src/com/gfdz/service/gc/ProjectScheduleServiceI.java
+END
+CodeServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/1570/gfdzoa/gfdzoa-src/com/gfdz/service/gc/CodeServiceI.java
+END
+PurchaseExecuteConfirmServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/PurchaseExecuteConfirmServiceI.java
+END
+TransferFilesServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/1102/gfdzoa/gfdzoa-src/com/gfdz/service/gc/TransferFilesServiceI.java
+END
+PurchasePlanServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1832/gfdzoa/gfdzoa-src/com/gfdz/service/gc/PurchasePlanServiceI.java
+END
+QualityCheckServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/QualityCheckServiceI.java
+END
+ProjectInfoServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1580/gfdzoa/gfdzoa-src/com/gfdz/service/gc/ProjectInfoServiceI.java
+END
+PurchaseExecuteDetailServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/PurchaseExecuteDetailServiceI.java
+END
+JsTransferFilesServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1102/gfdzoa/gfdzoa-src/com/gfdz/service/gc/JsTransferFilesServiceI.java
+END
+QualityRetentionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1725/gfdzoa/gfdzoa-src/com/gfdz/service/gc/QualityRetentionService.java
+END
+WagesDeclareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/1661/gfdzoa/gfdzoa-src/com/gfdz/service/gc/WagesDeclareService.java
+END
+ProjectScheduleDetailServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/ProjectScheduleDetailServiceI.java
+END
+PurchaseServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/1841/gfdzoa/gfdzoa-src/com/gfdz/service/gc/PurchaseServiceI.java
+END
+ProjectAcceptService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/1718/gfdzoa/gfdzoa-src/com/gfdz/service/gc/ProjectAcceptService.java
+END
+ProjectTaskServiceI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/977/gfdzoa/gfdzoa-src/com/gfdz/service/gc/ProjectTaskServiceI.java
+END

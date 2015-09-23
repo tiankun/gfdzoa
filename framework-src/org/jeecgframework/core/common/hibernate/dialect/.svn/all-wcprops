@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect
+END
+HSQLDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/HSQLDialect.java
+END
+SybaseDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/SybaseDialect.java
+END
+DerbyDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/DerbyDialect.java
+END
+H2Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/H2Dialect.java
+END
+OracleDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/OracleDialect.java
+END
+MyPostgreSQLDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/MyPostgreSQLDialect.java
+END
+Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/Dialect.java
+END
+SQLServerDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/SQLServerDialect.java
+END
+DialectFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/DialectFactoryBean.java
+END
+MySQLDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/MySQLDialect.java
+END
+SQLServer2005Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/SQLServer2005Dialect.java
+END
+PostgreSQLDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/PostgreSQLDialect.java
+END
+DB2Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/common/hibernate/dialect/DB2Dialect.java
+END

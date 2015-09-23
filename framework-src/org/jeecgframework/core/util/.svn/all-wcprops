@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/1406/gfdzoa/framework-src/org/jeecgframework/core/util
+END
+ResourceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ResourceUtil.java
+END
+UploadUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/UploadUtils.java
+END
+MutiLangUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/MutiLangUtil.java
+END
+PinyinUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/PinyinUtil.java
+END
+ReflectHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ReflectHelper.java
+END
+CnUpperCaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/1406/gfdzoa/framework-src/org/jeecgframework/core/util/CnUpperCaser.java
+END
+IpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/IpUtil.java
+END
+LdapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/LdapUtil.java
+END
+QueryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/1248/gfdzoa/framework-src/org/jeecgframework/core/util/QueryUtils.java
+END
+ImportUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ImportUtil.java
+END
+JeecgDataAutorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/JeecgDataAutorUtils.java
+END
+LogUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/LogUtil.java
+END
+YouBianCodeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/1094/gfdzoa/framework-src/org/jeecgframework/core/util/YouBianCodeUtil.java
+END
+JeecgSqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/JeecgSqlUtil.java
+END
+ExceptionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ExceptionUtils.java
+END
+SendMailUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/SendMailUtil.java
+END
+ToEntityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ToEntityUtil.java
+END
+NumberComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/NumberComparator.java
+END
+SetListSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/SetListSort.java
+END
+PasswordUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/PasswordUtil.java
+END
+DBTypeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/DBTypeUtil.java
+END
+RoletoJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/RoletoJson.java
+END
+ListtoMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ListtoMenu.java
+END
+JSONHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/1783/gfdzoa/framework-src/org/jeecgframework/core/util/JSONHelper.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/StringUtil.java
+END
+ListUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ListUtils.java
+END
+ExceptionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ExceptionUtil.java
+END
+oConvertUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/oConvertUtils.java
+END
+BrowserUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/BrowserUtils.java
+END
+IdcardUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/IdcardUtils.java
+END
+IpConfigMac.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/1094/gfdzoa/framework-src/org/jeecgframework/core/util/IpConfigMac.java
+END
+MutiLangSqlCriteriaUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/MutiLangSqlCriteriaUtil.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/DateUtils.java
+END
+BrowserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/BrowserType.java
+END
+ProcessConstantsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/java/!svn/ver/1633/gfdzoa/framework-src/org/jeecgframework/core/util/ProcessConstantsUtil.java
+END
+ApplicationContextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ApplicationContextUtil.java
+END
+ListtoJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ListtoJson.java
+END
+MyClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/MyClassLoader.java
+END
+DynamicDBUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/DynamicDBUtil.java
+END
+UUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/UUIDGenerator.java
+END
+PluginConfigCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/PluginConfigCreator.java
+END
+ContextHolderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/ContextHolderUtils.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/FileUtils.java
+END
+PropertiesUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/PropertiesUtil.java
+END
+GenericsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/GenericsUtils.java
+END
+MyBeanUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/MyBeanUtils.java
+END
+SystemPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/SystemPath.java
+END
+StreamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/801/gfdzoa/framework-src/org/jeecgframework/core/util/StreamUtils.java
+END
